@@ -1,0 +1,19 @@
+{
+  "name": "sap-code-server",
+  "version": "1.0.0",
+  "description": "IDE extension for Super Agent Party!",
+  "author": "heshengtao",
+  "repository": "",
+  "category": "Development",
+  "main": "index.js",
+  "nodePort": 0,
+  "width": 800,
+  "height": 600,
+  "dependencies": {
+    "express": "^4.18.2",
+    "code-server": "^4.93.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
